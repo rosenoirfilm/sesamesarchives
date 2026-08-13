@@ -5,5 +5,5 @@
 .sgpicsimg{border-radius: 5px; object-fit: cover;width: 100%;}
 .sgdetails{display: flex; justify-content: space-between;align-items: center;gap: 18px;text-align: justify; font-family: 'Manrope'; font-size: 16px;}
 .sgdate{font-family: 'Anonymous Pro'; font-size: (var(--little-size)); letter-spacing: 1px;}
-.sgvideo{width: 100%;}.sgmedia2{border-radius: 5px; object-fit: cover;width: 100%;}
+.sgvideo{width: 100%;}
 .sgsource{border-radius: 5px; object-fit: cover;width: 100%;}
